@@ -1,0 +1,21 @@
+{
+  "include": ["**/*"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["*"]
+    },
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "allowJs": true,
+    "module": "commonjs",
+    "target": "es2015",
+    "moduleResolution": "node",
+    "isolatedModules": false,
+    "lib": ["esnext", "scripthost"],
+    "sourceMap": false,
+    "pretty": false,
+    "types": ["node"]
+  }
+}

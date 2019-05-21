@@ -1,0 +1,153 @@
+Shuriken
+Smoke Screen
+Teleport
+Blade Storm
+Landslide
+Tectonics
+Petrify
+Rumblers
+Sonic Boom
+Sonar
+Silence
+Sound Quake
+Elude
+Lull
+Desolate Hands
+Serene Storm
+Spectral Scream
+Elemental Ward
+Vex Armor
+Effigy
+Fireball
+Accelerant
+Fire Blast
+World On Fire
+Metamorphosis
+Rest & Rage
+Pacify & Provoke
+Mend & Maim
+Slash Dash
+Radial Blind
+Radial Javelin
+Exalted Blade
+Radial Howl
+Freeze
+Ice Wave
+Snow Globe
+Avalanche
+Shattered Lash
+Splinter Storm
+Spectrorage
+Mass Vitrify
+Dread Mirror
+Blood Altar
+Bloodletting
+Seeking Talons
+Condemn
+Penance
+Thurible
+Covenant
+Tempest Barrage
+Tidal Surge
+Undertow
+Tentacle Swarm
+Desiccation
+Devour
+Sandstorm
+Scarab Swarm
+Quiver
+Navigator
+Prowl
+Artemis Bow
+Whipclaw
+Ensnare
+Venari
+Strangledome
+Banish
+Stasis
+Rift Surge
+Cataclysm
+Decoy
+Invisibility
+Switch Teleport
+Radial Disarm
+Pull
+Magnetize
+Polarize
+Crush
+Ballistic Battery
+Shooting Gallery
+Shatter Shield
+Peacemaker
+Hall Of Mirrors
+Sleight Of Hand
+Eclipse
+Prism
+Soul Punch
+Terrify
+Desecrate
+Shadows Of The Dead
+Fire Walker
+Blazing Chakram
+Warding Halo
+Divine Spears
+Virulence
+Larva
+Parasitic Link
+Ravenous
+Null Star
+Antimatter Drop
+Worm Hole
+Molecular Prime
+Mind Control
+Psychic Bolts
+Chaos
+Absorb
+Smite
+Hallowed Ground
+Renewal
+Reckoning
+Mallet
+Resonator
+Metronome
+Amp (Ability)
+Enthrall
+Mesmer Skin
+Reave
+Danse Macabre
+Rhino Charge
+Iron Skin
+Roar
+Rhino Stomp
+Spores
+Molt
+Toxic Lash
+Miasma
+Spellbind
+Tribute
+Lantern
+Razorwing
+Well Of Life
+Energy Vampire
+Link
+Blessing
+Rip Line
+Warcry
+Paralysis
+Hysteria
+Tesla
+Minelayer
+Bastille
+Vortex
+Shock
+Speed
+Electric Shield
+Discharge
+Iron Jab
+Defy
+Cloud Walker
+Primal Fury
+Tail Wind
+Airburst
+Turbulence
+Tornado
